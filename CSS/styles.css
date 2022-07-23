@@ -1,0 +1,135 @@
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;    
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+p {
+    color: black;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    width: 5%;
+    border: dotted rgb(202, 197, 197) 6px;
+    border-bottom: none;
+    margin: 125px auto 100px auto;
+}
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+
+.intro {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+.contact-msg {
+    text-align: center;
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+.copyright-txt {
+    color: #606060;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #1F1D36;
+    position: relative;
+    padding-top: 50px;
+}
+
+.middle-container {
+    text-align: center;
+    margin: 100px 0;
+
+}
+
+.bottom-container {
+    background-color: #1F1D36;
+    padding: 50px 0 20px;
+
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+.myPic {
+    width: 15%;
+}
+
+.webDev {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.gaming {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 19px;
+    background: #1F1D36;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
